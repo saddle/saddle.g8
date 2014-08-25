@@ -4,7 +4,7 @@ organization := "$organization$"
 
 version := "$version$"
 
-scalaVersion := "2.11.2"
+scalaVersion := "2.10.4"
 
 resolvers ++= Seq(
     "Sonatype OSS Releases" at "http://oss.sonatype.org/content/repositories/releases/",

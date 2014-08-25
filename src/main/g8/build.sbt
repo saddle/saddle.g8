@@ -25,6 +25,6 @@ import org.joda.time.DateTime
 import org.saddle._
 import org.saddle.time._
 import org.saddle.io._
-import $organization$.$name;format="lower,word"$._"""
+"""
 
 

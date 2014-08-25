@@ -1,4 +1,4 @@
-package $organization$.$name;format="lower,word"$
+package $organization$.$name$
 
 import org.saddle._
 

@@ -3,6 +3,6 @@ the boilerplate in setting up a new Saddle project.
 
 * `main` and `test` source directories and stubs
 * [specs2](http://etorreborre.github.com/specs2/)
-* SBT simple configuration for `0.13`, scala `2.11.2`, and `specs2` dependencies
+* SBT simple configuration for `0.13.5`, scala `2.10.4`, and `specs2` dependencies
 * project `name`, `organization` and `version` customizable as variables
 * everything in your project's base package imported automatically in repl sessions
